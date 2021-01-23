@@ -1,3 +1,3 @@
 # my-application
 
-This is Movie APP based TmDb API
+This is Movie App based on TmDb API.
